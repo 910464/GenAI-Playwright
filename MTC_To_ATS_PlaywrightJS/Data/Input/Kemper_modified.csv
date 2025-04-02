@@ -1,0 +1,7 @@
+Application,Issue Type,Summary,Description,Steps,Description (Design Steps),Expected,Status,Step Attachment,IssueId,IssueKey,PostStatus,ReqID,Def Id
+kemper,Find an agent,Validating the find an agent tool ,,Step 1,1. Navigate to Kemper Website https://www.kemper.com/ it will land on Kemper Home page.,User should be navigated to Kemper website.,,,,,,,
+,,,,Step 2,2. Click on Car Insurance on Kemper Home page.,User should land on kemper-auto page.,,,,,,,
+,,,,Step 3,3. Click on  Get a Quote  on Car Insurance page.,User should navigate to get-a-quote page,,,,,,,
+,,,,Step 4,4. Populate ZIP Code as 10001.,Enter ZIP Code field with 10001,,,,,,,
+,,,,Step 5,5. Select Insurance Type as Commercial Auto,From Insurance Type dropdown Commercial Auto will be selected.,,,,,,,
+,,,,Step 6,6.Click Submit.,User should navigate to autoinsurance_request page.,,,,,,,
